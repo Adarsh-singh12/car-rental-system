@@ -1,0 +1,1 @@
+A Car Rental System project is designed to manage and automate the process of renting cars to customers. It typically includes features such as car inventory management, customer registration, rental and return processing, and payment tracking. Such systems can be built for desktop, web, or mobile platforms.
